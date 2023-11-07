@@ -12,8 +12,8 @@
 - 📫 How to reach me **dhruvaind3@gmail.com**
 
 
-<!-- <h3 align="left">Connect with me:</h3>    
-<p align="left"> hey</p> -->
+<h3 align="left">Connect with me:</h3>    
+<a align="left" href="https://www.linkedin.com/in/dhruva-indavarapu/">Dhruva's LinkedIn</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
