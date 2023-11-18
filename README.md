@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruva21&label=Profile%20views&color=0e75b6&style=flat" alt="dhruva21" /> </p>
 
-- 🌱 I’m currently learning **Django, NextJS Express, React-Redux, AWS**
+- 🌱 I’m currently learning **NextJS Express, React-Redux, AWS, Firmware Security**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-dhruva.netlify.app](https://portfolio-dhruva.netlify.app)
 
