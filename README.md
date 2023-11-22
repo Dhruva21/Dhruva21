@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-dhruva.netlify.app](https://portfolio-dhruva.netlify.app)
 
-- 💬 Ask me about **ReactJS, NextJs**
+- 💬 Ask me about **ReactJS, NextJs, Firmware Security**
 
 - 📫 How to reach me **dhruvaind3@gmail.com**
 
