@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS, Express, React-Redux, AWS, Firmware Security**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-dhruva.netlify.app](https://dhruva-portfolio-site.vercel.app/)
+- 👨‍💻 All of my projects are available at https://dhruva-portfolio-site.vercel.app/
 
 - 💬 Ask me about **ReactJS, NextJs, Firmware Security**
 
