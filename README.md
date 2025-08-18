@@ -5,15 +5,11 @@
 
 - 🌱 I’m currently learning **NextJS, Express, React-Redux, AWS, Firmware Security**
 
-- 👨‍💻 All of my projects are available at https://dhruva-portfolio-site.vercel.app/
 
 - 💬 Ask me about **ReactJS, NextJs, Firmware Security**
 
 - 📫 How to reach me **dhruvaind3@gmail.com**
 
-
-<h3 align="left">Connect with me:</h3>    
-<a align="left" href="https://www.linkedin.com/in/dhruva-indavarapu/">Dhruva's LinkedIn</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
